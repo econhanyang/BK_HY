@@ -12,7 +12,6 @@
 <h3> <span style ="background-color:yellow"> 아파트 리뷰 빅데이터를 활용해 주거환경 만족도 영향요인을 분석함</span> </h3>
 <br>
 
-
 <i>설문조사로 구축한 정량적인 자료만을 활용, 조사자가 정한 항목만을 고려, 수동적으로 주거환경 만족도의 영향요인을 도출한 기존 연구와 딜리 본 연구는 다음과 같은 차별성을 지님</i>
     
 <b>① 서울특별시 전체 아파트를 대상으로 주거환경 만족도를 수집
@@ -22,25 +21,25 @@
 <b>③ 서울특별시 다섯 개 권역*에 따른 주거환경 만족도 영향요인 도출 및 분석
 <h2>본 연구의 프레임워크 </h2>
 
-![image](https://user-images.githubusercontent.com/131750990/234494435-23b0b76a-d3c1-4cc9-895a-40bf00d3e76a.png)
+![권준현1](https://user-images.githubusercontent.com/131750990/234506713-087b597c-5aeb-4b8f-aa19-8a85211042c4.png)
 
 
   
 <텍스트리뷰 전처리 예시>
   
-![image](https://user-images.githubusercontent.com/131750990/234492066-99a672e5-78c3-4574-b00d-884213b1139e.png)
+![권준현2](https://user-images.githubusercontent.com/131750990/234506764-e109b523-006c-429c-8fb2-7b0f7a310520.png)
     
   
 <BERT 활용 방법>
-![image](https://user-images.githubusercontent.com/131750990/234492118-e0f80741-7cea-4611-944c-e6300b7f618a.png)
-<Shap 활용 예시>![image](https://user-images.githubusercontent.com/131750990/234492221-334d61c8-f382-404c-a0ac-b9d264c91bc6.png)
+![권준현3](https://user-images.githubusercontent.com/131750990/234506768-30494313-6bbf-460b-a8b4-bdc8f63efd33.png)
+<Shap 활용 예시>![권준현4](https://user-images.githubusercontent.com/131750990/234506773-0cc4d126-58f9-494d-8646-712d79ac4cd7.png)
 <h2><p style="color:red">주요결과요약</p></h2>
 아래 그림은 각 권역별로 도출된 영향요인 중 긍정적/부정적 영향요인에 대해 상위 5개 요인과 이를 바탕으로 도출한 주요 주제를 나타낸 것임
 
-![image](https://user-images.githubusercontent.com/131750990/234492324-f9a76a4a-c373-4ea2-b26f-cdc13855ac93.png)
+![권준현5](https://user-images.githubusercontent.com/131750990/234506776-bbe5035f-276a-42fd-94bf-4ea0a66c07e6.png)
 다음 그림은 각 권역에서 한 번이라도 도출된 상위 영향요인들에 대해, 서울 전체 리뷰에 대한 상대적 영향력과 연관어를 시각화한 것임
 
-![image](https://user-images.githubusercontent.com/131750990/234492397-cd97ef8b-a1ca-4b3e-a730-b7ce05b9bcf4.png)
+![권준현6](https://user-images.githubusercontent.com/131750990/234506779-ca477abd-561f-434e-ab69-2a9e6b4200b1.png)
 <h3>연구 결론</h3>
 
 - 첫째, 서울 전체적으로 아파트의 경제적 가치가 주거환경 만족도에 영향을 미침
